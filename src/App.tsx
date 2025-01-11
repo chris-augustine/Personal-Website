@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
         <a href="https://www.linkedin.com/in/chris--augustine/" target="_blank">
-          <img src="/Profile_Picture_Yearbook.jpg" className="logo" alt="Photo of Chris Augustine" />
+          <img src="Profile_Picture_Yearbook.jpg" className="logo" alt="Photo of Chris Augustine" />
         </a>
       </div>
       <h1>Chris Augustine Personal Website</h1>
