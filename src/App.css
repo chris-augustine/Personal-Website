@@ -5,6 +5,15 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 36px
+}
+
 .logo {
   height: 30em;
   padding: 1.5em;

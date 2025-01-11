@@ -15,8 +15,13 @@ function App() {
         <a href="https://scholarcommons.scu.edu/cseng_senior/284/" target="_blank">
           <img src="Senior_Design_2024.jpg" className="logo" alt="Senior Design Presentation 2024" />
         </a>
+        <h2>General Purpose Tuning Data Visualization Demo</h2>
+        <video width="1280" height="720" controls>
+          <source src="DataVisualizationAppDemo.mp4" type="video/mp4"></source>
+          Your browser does not support the video tag.
+        </video>
+
       </div>
-      
     </div>
   )
 }
