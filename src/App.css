@@ -7,11 +7,18 @@
 
 h1 {
   font-family: 'Merriweather', serif;
+  margin-bottom: 1px
 }
 
 h2 {
   font-family: 'Merriweather', serif;
   font-size: 36px
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+  margin-top: 1px
 }
 
 .logo {
