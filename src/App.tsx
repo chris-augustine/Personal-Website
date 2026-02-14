@@ -37,6 +37,12 @@ function App() {
         <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:dac1a5d5-7b60-4092-bdaf-2499da34005d" target="_blank">
           <img src="RPMProjectWebsite.png" className="logo" alt="Formal Report about Solving Human Intelligence Tests using AI" />
         </a>
+        <h2>Simple Weather MCP Server</h2>
+        <video width="1280" height="720" controls>
+          <source src="MCP_Demo.mp4" type="video/mp4"></source>
+          Your browser does not support the video tag.
+        </video>
+        
       </div>
     </div>
   )
