@@ -10,12 +10,19 @@ function App() {
       <h1>Chris Augustine Portfolio</h1>
       <h3>Based in San Ramon, California</h3>
       <div>
-        <a href="https://www.linkedin.com/in/chris--augustine/" target="_blank">
-          <img src="Profile_Picture_Yearbook.jpg" className="logo" alt="Photo of Chris Augustine" />
-        </a>
-        <a href="https://scholarcommons.scu.edu/cseng_senior/284/" target="_blank">
-          <img src="Senior_Design_2024.jpg" className="logo" alt="Senior Design Presentation 2024" />
-        </a>
+        <div className="image-row">
+          <div className="caption">
+            <a href="https://www.linkedin.com/in/chris--augustine/" target="_blank">
+              <img src="Profile_Picture_Yearbook.jpg" className="logo" alt="Photo of Chris Augustine" />
+            </a>
+            <h4 style={{margin: 0}}>MSCS @ Georgia Tech</h4>
+            <h4 style={{margin: 0}}>BS CSE @ Santa Clara University</h4>
+          </div>
+          
+          <a href="https://scholarcommons.scu.edu/cseng_senior/284/" target="_blank">
+            <img src="Senior_Design_2024.jpg" className="logo" alt="Senior Design Presentation 2024" />
+          </a>
+        </div>
         <h2>General Purpose Tuning Data Visualization Showcase</h2>
         <video width="1280" height="720" controls>
           <source src="DataVisualizationAppDemo.mp4" type="video/mp4"></source>
